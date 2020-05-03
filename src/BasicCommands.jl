@@ -1,3 +1,5 @@
+# https://juliabyexample.helpmanual.io/
+
 # simple operations
 number1 = 50
 number2 = 80
